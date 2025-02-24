@@ -1,6 +1,6 @@
-# Web Platform Viz
+# BCDF - flattened Browser Compat Data
 
-A quick stab at making [Browser Compat Data (BCD)](https://github.com/mdn/browser-compat-data/) data a little easier to work with for forest-level querying and visualization.
+A quick script for making [Browser Compat Data (BCD)](https://github.com/mdn/browser-compat-data/) a little easier to work with for forest-level querying and visualization.
 
 Example grouping BCD keys by year of first release to show the rate of growth of the web platform surface area over almost 30 years, and posted here: https://bsky.app/profile/burrito.space/post/3likfetcvwc2w
 
