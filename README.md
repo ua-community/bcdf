@@ -2,6 +2,10 @@
 
 A quick stab at making [Browser Compat Data (BCD)](https://github.com/mdn/browser-compat-data/) data a little easier to work with for forest-level querying and visualization.
 
+Example grouping BCD keys by year of first release to show the rate of growth of the web platform surface area over almost 30 years, and posted here: https://bsky.app/profile/burrito.space/post/3likfetcvwc2w
+
+<img src="public/example-graph.png">
+
 ## BCD structure / challenges
 
 - BCD is stored in JSON files across a directory structure of varying depth
