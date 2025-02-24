@@ -51,3 +51,18 @@ Update `bcdf.json`:
 `yarn start`
 
 Which runs `index.js` and generates a new data file and writes to disk as `data/bcdf.json`.
+
+## Future
+
+Reports
+- per-browser key growth rate
+- keys that took longest to get to >1 impl
+- list of least interoperable
+- mobile key lag rate
+- mobile key delta from desktop
+- growth rate by key group
+- most stable key groups
+
+Features
+- extensible/multidimensional search patterns
+
