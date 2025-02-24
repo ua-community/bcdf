@@ -1,0 +1,16 @@
+{
+  "name": "bcdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dietrich Ayala <dietrich@webtransitions.org> (https://metafluff.com/)",
+  "license": "MIT",
+  "description": "Visualizing the web using Browser Compat Data (BCD)",
+  "dependencies": {
+    "@mdn/browser-compat-data": "^5.6.39"
+  }
+}
