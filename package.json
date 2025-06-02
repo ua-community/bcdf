@@ -11,6 +11,7 @@
   "license": "MIT",
   "description": "Visualizing the web using Browser Compat Data (BCD)",
   "dependencies": {
-    "@mdn/browser-compat-data": "^5.6.39"
+    "@mdn/browser-compat-data": "^6.0.19",
+    "web-features": "^2.36.1"
   }
 }
